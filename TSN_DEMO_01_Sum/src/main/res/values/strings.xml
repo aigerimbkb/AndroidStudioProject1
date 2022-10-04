@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TSN_DEMO_01_Sum</string>
+    <string name="b">B=</string>
+    <string name="x">X=</string>
+    <string name="sum">Решить</string>
+    <string name="button_name">Введите цифры и нажмите кнопку решить</string>
+    <string name="a">A=</string>
+    <string name="logo">logo</string>
+    <string name="formula">formula</string>
+</resources>
